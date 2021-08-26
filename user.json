@@ -1,0 +1,30 @@
+[
+    {
+        "nev": "guest",
+        "email": "g@g.com",
+        "password": "b2f5ff47436671b6e533d8dc3614845d",
+        "phone": "0112334",
+        "admin": false
+    },
+    {
+        "nev": "admin",
+        "email": "admin@mozi.hu",
+        "password": "21232f297a57a5a743894a0e4a801fc3",
+        "phone": "0112334",
+        "admin": true
+    },
+    {
+        "nev": "Soma",
+        "email": "soma@soma.soma",
+        "password": "03c7c0ace395d80182db07ae2c30f034",
+        "phone": "00010000100001",
+        "admin": false
+    },
+    {
+        "nev": "usermaaaa",
+        "email": "soma@soma.gmaolo",
+        "password": "7b774effe4a349c6dd82ad4f4f21d34c",
+        "phone": "3214124124",
+        "admin": false
+    }
+]

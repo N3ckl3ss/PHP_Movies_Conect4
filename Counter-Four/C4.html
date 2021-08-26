@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charaddCoin="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="./stylesheet.css">
+    <title>Connect-Four</title>
+</head>
+
+<body>
+    <div class="container-fluid">
+        <!-- Background animtion-->
+        <div class="background">
+            <div class="cube"></div>
+            <div class="cube"></div>
+            <div class="cube"></div>
+            <div class="cube"></div>
+            <div class="cube"></div>
+        </div>
+        <div class="game">
+            <div class="menu">
+                <div id="settings">
+                    <button id="start">Start</button><br>
+                    <button id="continue">Continue</button><br>
+                    <div id="continuelist" class="hidden">
+                        <h2>There are no saved games</h2>
+                    </div>
+                    <input class="type-radio" name="type" type="radio" value="false" checked><label>1 Player</label>
+                    <input class="type-radio" name="type" type="radio" value="true"><label>2 Player</label><br>
+                    <div id="removable" class="hidden">
+                        <input id="player1" type="text" value="Palyer1">
+                        <input id="player2" type="text" value="Palyer2"><br>
+                        <button id="name">Save Names</button><br>
+                    </div>
+                    <button id="rules">Rules</button><br>
+                </div>
+                <div id="ruleset" class="hidden">
+                    <h2>Menu</h2>
+                    <p>You can choose two different playing mods(on and two player), If you click start thegame will
+                        begin.
+                        If you want to change the player names you must click save name befor continuing.
+                    </p>
+                    <h2>Gameplay</h2>
+                    <h3>Objective of the Game</h3>
+                    <p>To be the first player to Make 4 same color checkers in a row diagonally, horizontally or
+                        vertically.</p>
+                    <h3>Connect 4 Rule</h3>
+                    <p>Each turn, the player will get the chance to drop and make the row of his checkers, but sometimes
+                        instead of making your row, the player has to stop another opponent from making his 4 checkers
+                        row by dropping your color checker in that place.
+
+                        The game ends when any players make four checkers of his color in a row, or when all the 42
+                        slots are occupied, in that case, the game ends in a tie</p>
+                    <h2>Controls</h2>
+                    <p>You can play this game with a mouse or a keybord. You can click the columns or press the
+                        number(1-7) to place the coin</p>
+                </div>
+                <a href="http://webprogramozas.inf.elte.hu/hallgatok/gp6khz/php/beadando/"><button>Back To Legitamet Cinema</button><br></a>
+            </div>
+            <div id="gamechanges" class="hidden">
+                <div class="changesMenu">
+                    <button id="backToMenu">Back To Menu</button><br>
+                    <button id="reset">Reset</button><br>
+                    <button id="save">Save</button><br>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="players">
+                            <h1 class="player1label">Player1<img src='./assets/red-circle.gif' width=20 height=20></h1>
+                            <h1 class="player2label"><img src='./assets/yellow-circle.gif' width=20 height=20>Player2
+                            </h1>
+                        </div>
+                        <div class="col-sm-12 lead">
+                            <div style="position:relative;">
+                                <p>
+                                    <img class="board" id="0" src="./assets/column.png" align="left" hspace="0">
+                                    <img class="board" id="1" src="./assets/column.png" align="left" hspace="0">
+                                    <img class="board" id="2" src="./assets/column.png" align="left" hspace="0">
+                                    <img class="board" id="3" src="./assets/column.png" align="left" hspace="0">
+                                    <img class="board" id="4" src="./assets/column.png" align="left" hspace="0">
+                                    <img class="board" id="5" src="./assets/column.png" align="left" hspace="0">
+                                    <img class="board" id="6" src="./assets/column.png" align="left" hspace="0">
+                                </p>
+                                <br clear="all">
+                                <div id="boardsAddCoin"></div>
+                            </div>
+                            <script src="c4.js" type="module"></script>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+</body>
+
+</html>

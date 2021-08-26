@@ -1,0 +1,80 @@
+[
+    {
+        "id": 0,
+        "title": "Fight Club",
+        "picture": "https:\/\/external-content.duckduckgo.com\/iu\/?u=https%3A%2F%2Ffanart.tv%2Ffanart%2Fmovies%2F550%2Fmovieposter%2Ffight-club-55e235cc9640a.jpg&f=1&nofb=1",
+        "descreption": "Fight Club is a 1999 American film directed by David Fincher and starring Brad Pitt, Edward Norton, and Helena Bonham Carter. It is based on the 1996 novel of the same name by Chuck Palahniuk. Norton plays the unnamed narrator, who is discontented with his white-collar job. He forms a ",
+        "day": "Friday",
+        "location": "5",
+        "time": "21:00",
+        "price": "3",
+        "numberOfSeats": 18,
+        "available": false,
+        "adminMadeFalse": false
+    },
+    {
+        "id": 1,
+        "title": "The Gentlemen",
+        "picture": "https:\/\/external-content.duckduckgo.com\/iu\/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.WuYqzD58K-S6IgIof_qUswHaK9%26pid%3DApi&f=1",
+        "descreption": "A talented American graduate of Oxford, using his unique skills, and audacity, creates a marijuana empire using the estates of impoverished British aristocrats. However, when he tries to sell his empire to a fellow American billionaire, a chain of events unfolds, involving blackmail, deception, mayhem and murder between street thugs, Russian oligarchs, Triad gangsters and gutter journalists.",
+        "day": "Sunday",
+        "location": "1",
+        "time": "19:15",
+        "price": "15",
+        "numberOfSeats": 33,
+        "available": false,
+        "adminMadeFalse": false
+    },
+    {
+        "id": 2,
+        "title": "THE DARK KNIGHT",
+        "picture": "https:\/\/image.tmdb.org\/t\/p\/original\/pKKvCaL1TPTVtbI6EeliyND3api.jpg",
+        "descreption": "Christian Bale and director Christopher Nolan reunite following their blockbuster success with Batman Begins! This time, Heath Ledger joins the cast as The Joker, and Aaron Eckhart stars as Harvey Dent in a new adventure of The Dark Knight. With the help of Lieutenant Jim Gordon (Gary Oldman) and new district attorney Harvey Dent, Batman sets out to destroy organized crime in Gotham City forever. The three enjoy early success, but they soon find themselves prey to a rising criminal mastermind known as The Joker, who throws Gotham into anarchy and forces Batman ever closer to crossing the line between hero and vigilante.",
+        "day": "Wednesday",
+        "location": "2",
+        "time": "18:00",
+        "price": "7",
+        "numberOfSeats": "27",
+        "available": false,
+        "adminMadeFalse": false
+    },
+    {
+        "id": 3,
+        "title": "The Matrix",
+        "picture": "https:\/\/external-content.duckduckgo.com\/iu\/?u=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FaOIuZAjPaRIE6CMzbazvcHuHXDc.jpg&f=1&nofb=1",
+        "descreption": "It was a simple life. Then he woke up. Now this hacker-turned-savior is about to blow the dream sky high.",
+        "day": "Monday",
+        "location": "4",
+        "time": "18:30",
+        "price": "1600000000000",
+        "numberOfSeats": "2",
+        "available": false,
+        "adminMadeFalse": false
+    },
+    {
+        "id": 4,
+        "title": "THE EVIL DEAD",
+        "picture": "https:\/\/1.bp.blogspot.com\/-kwY5pzlde7A\/Vs6dB7kt0FI\/AAAAAAABW9U\/LNDEdy4HR3A\/s1600\/Francesco-Francavilla-Evil-Dead-Movie-Poster-Variant-2016.JPG",
+        "descreption": "Five twentysomething friends are holed up in a remote cabin where they discover a Book Of The Dead. An archaeologist's tape recording reveals that the ancient text was discovered among the Khandarian ruins of a Sumerian civilization. Playing the taped incantations, the youths unwittingly summon up dormant demons living in the nearby woods, which possess the youngsters in succession until only one is left intact to fight for survival.",
+        "day": "Saturday",
+        "location": "3",
+        "time": "23:59",
+        "price": "3",
+        "numberOfSeats": "27",
+        "available": false,
+        "adminMadeFalse": false
+    },
+    {
+        "id": 5,
+        "title": "INGLOURIOUS BASTERDS",
+        "picture": "https:\/\/external-content.duckduckgo.com\/iu\/?u=https%3A%2F%2Ffanart.tv%2Ffanart%2Fmovies%2F16869%2Fmovieposter%2Finglourious-basterds-5217dcadabf42.jpg&f=1&nofb=1",
+        "descreption": "In the first year of the German occupation of France, Shosanna Dreyfus witnesses the execution of her family at the hand of Nazi Colonel Hans Landa. Shosanna narrowly escapes and flees to Paris where she forges a new identity as the owner of a cinema. Elsewhere in Europe, Lieutenant Aldo Raine organizes a group of Jewish American soldiers to perform swift, shocking acts of retribution. Later known to their enemy as \"the basterds,\" Raine's squad joins German actress and undercover agent Bridget von Hammersmark on a mission to take down the leaders of the Third Reich. Fates converge under a cinema marquis, where Shosanna is poised to carry out a revenge plan of her own. Quentin Tarantino's INGLOURIOUS BASTERDS weaves together infamous, oppressed, real and larger-than-life stories of WWII.",
+        "day": "Friday",
+        "location": "1",
+        "time": "21:00",
+        "price": "30",
+        "numberOfSeats": "35",
+        "available": false,
+        "adminMadeFalse": false
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "username": "guest",
+        "movieId": "0",
+        "moviePrice": 3,
+        "numberOfTickets": "1"
+    },
+    {
+        "username": "Soma",
+        "movieId": "0",
+        "moviePrice": 18,
+        "numberOfTickets": 6
+    },
+    {
+        "username": "Soma",
+        "movieId": "1",
+        "moviePrice": 30,
+        "numberOfTickets": "2"
+    }
+]
